@@ -1,2 +1,2 @@
-# CloudComputing
-A repository to keep learn cloud computing, projects from professional courses, and side projects deployed to learn cloud computing for machine learning. 
+# Cloud Computing
+This repo contains my cloud computing projects with big data for Machine learning
